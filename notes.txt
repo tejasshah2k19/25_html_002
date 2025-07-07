@@ -16,3 +16,6 @@ heading ->
             <h1>Welcome</h1> 
 
             <h2>Welcome</h2>
+
+move your content to the center of the page -> 
+        <center> 
