@@ -1,0 +1,18 @@
+HTML -> 
+
+
+tags -> 
+
+
+<html>
+
+
+
+</html> 
+
+
+heading -> 
+            h1 to h6 
+            <h1>Welcome</h1> 
+
+            <h2>Welcome</h2>
