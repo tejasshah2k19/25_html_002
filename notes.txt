@@ -19,3 +19,14 @@ heading ->
 
 move your content to the center of the page -> 
         <center> 
+
+--------------------------------------------------------------------
+
+p -> paragraph 
+br -> break row
+font -> font size="3" 
+img -> img src="" height="" width="" 
+
+
+--------------------------------------------------------------------
+
