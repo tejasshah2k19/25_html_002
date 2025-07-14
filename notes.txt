@@ -27,6 +27,52 @@ br -> break row
 font -> font size="3" 
 img -> img src="" height="" width="" 
 
+center 
+iframe* 
+hr 
+
+video src control 
+audio 
+
 
 --------------------------------------------------------------------
+
+body bgcolor 
+
+
+
+two types tag -> container tag , empty tag 
+
+open -- close --> container tag 
+
+<head></head>
+<body></body>
+
+empty -> no need to close --- selfclosing 
+
+<hr>
+<br>
+<br/>
+
+<img/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
