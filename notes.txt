@@ -60,10 +60,17 @@ empty -> no need to close --- selfclosing
 
 
 
+page responsive ---> 
+                [ ]  [  ] [    ] [       ]  [                     ]
+                         
 
 
+SEO ->
 
 
+table 
+        tr
+        td
 
 
 
